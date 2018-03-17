@@ -1,4 +1,4 @@
-package com.shyrokykh.subtask2.presentation.exception;
+package com.shyrokykh.subtask2.runner.exception;
 
 public class IllegalHighBoundaryException extends Exception {
     private static final long serialVersionUID = -2818100111047651196L;

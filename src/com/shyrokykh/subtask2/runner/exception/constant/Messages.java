@@ -1,4 +1,4 @@
-package com.shyrokykh.subtask2.presentation.exception.constant;
+package com.shyrokykh.subtask2.runner.exception.constant;
 
 public interface Messages {
     String ERR_ILLEGAL_LOW_BOUNDARY = "Illegal low boundary";

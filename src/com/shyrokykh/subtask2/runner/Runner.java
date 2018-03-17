@@ -1,9 +1,9 @@
 package com.shyrokykh.subtask2.runner;
 
 import com.shyrokykh.subtask2.computation.util.PerfectNumberCalculator;
-import com.shyrokykh.subtask2.presentation.exception.IllegalHighBoundaryException;
-import com.shyrokykh.subtask2.presentation.exception.IllegalLowBoundaryException;
-import com.shyrokykh.subtask2.presentation.exception.constant.Messages;
+import com.shyrokykh.subtask2.runner.exception.IllegalHighBoundaryException;
+import com.shyrokykh.subtask2.runner.exception.IllegalLowBoundaryException;
+import com.shyrokykh.subtask2.runner.exception.constant.Messages;
 import com.shyrokykh.subtask2.presentation.util.ResultViewer;
 
 public final class Runner {
