@@ -1,4 +1,4 @@
-package com.shyrokykh.subtask1.computation;
+package com.shyrokykh.subtask1.computation.util;
 
 import com.shyrokykh.subtask1.computation.exception.IllegalNumberSystemException;
 import com.shyrokykh.subtask1.computation.exception.IllegalOriginalNumberException;
