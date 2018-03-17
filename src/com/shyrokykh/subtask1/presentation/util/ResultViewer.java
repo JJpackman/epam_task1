@@ -1,4 +1,4 @@
-package com.shyrokykh.subtask1.presentation;
+package com.shyrokykh.subtask1.presentation.util;
 
 import com.shyrokykh.subtask1.presentation.constant.MessageColors;
 import com.shyrokykh.subtask1.presentation.constant.Messages;

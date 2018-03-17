@@ -1,7 +1,7 @@
 package com.shyrokykh.subtask1.runner;
 
 import com.shyrokykh.subtask1.computation.util.DecimalToNumberSystemConverter;
-import com.shyrokykh.subtask1.presentation.ResultViewer;
+import com.shyrokykh.subtask1.presentation.util.ResultViewer;
 
 public final class Runner {
     private Runner() {}
