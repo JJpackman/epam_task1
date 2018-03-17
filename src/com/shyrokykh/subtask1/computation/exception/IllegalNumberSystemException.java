@@ -1,4 +1,4 @@
-package com.shyrokykh.subtask1.exception;
+package com.shyrokykh.subtask1.computation.exception;
 
 public class IllegalNumberSystemException extends Exception {
     private static final long serialVersionUID = 8247785926236153501L;

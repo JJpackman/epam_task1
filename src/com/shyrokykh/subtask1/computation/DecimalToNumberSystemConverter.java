@@ -1,8 +1,8 @@
 package com.shyrokykh.subtask1.computation;
 
-import com.shyrokykh.subtask1.exception.IllegalNumberSystemException;
-import com.shyrokykh.subtask1.exception.IllegalOriginalNumberException;
-import com.shyrokykh.subtask1.exception.constant.Messages;
+import com.shyrokykh.subtask1.computation.exception.IllegalNumberSystemException;
+import com.shyrokykh.subtask1.computation.exception.IllegalOriginalNumberException;
+import com.shyrokykh.subtask1.computation.exception.constant.Messages;
 
 public final class DecimalToNumberSystemConverter {
     private static final char[] DIGITS = {
@@ -36,9 +36,9 @@ public final class DecimalToNumberSystemConverter {
      *
      * @param   original the decimal number to convert
      * @param   numberSystem the number system into which convert
-     * @throws  com.shyrokykh.subtask1.exception.IllegalOriginalNumberException if a {@code original}
+     * @throws  com.shyrokykh.subtask1.computation.exception.IllegalOriginalNumberException if a {@code original}
      *          is negative
-     * @throws  com.shyrokykh.subtask1.exception.IllegalNumberSystemException if a {@code numberSystem}
+     * @throws  com.shyrokykh.subtask1.computation.exception.IllegalNumberSystemException if a {@code numberSystem}
      *          argument is not equal to 2 or 8, or 16
      *
      * @return  the result

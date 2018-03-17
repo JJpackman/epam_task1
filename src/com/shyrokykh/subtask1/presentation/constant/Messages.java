@@ -1,4 +1,4 @@
-package com.shyrokykh.subtask1.present.constant;
+package com.shyrokykh.subtask1.presentation.constant;
 
 public interface Messages {
     String FROM = "From number system";

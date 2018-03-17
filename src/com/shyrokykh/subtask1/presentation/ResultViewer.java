@@ -1,7 +1,7 @@
-package com.shyrokykh.subtask1.present;
+package com.shyrokykh.subtask1.presentation;
 
-import com.shyrokykh.subtask1.present.constant.MessageColors;
-import com.shyrokykh.subtask1.present.constant.Messages;
+import com.shyrokykh.subtask1.presentation.constant.MessageColors;
+import com.shyrokykh.subtask1.presentation.constant.Messages;
 
 public final class ResultViewer {
     private ResultViewer() {}
